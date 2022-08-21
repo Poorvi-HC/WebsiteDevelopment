@@ -4,6 +4,7 @@
 
 ## A basic template for a personal website, where images and content can be modified to their needs.
 <br>
+
 ## Key Features of the website template:
 ### a) The Template begins with initial taskbar containing all the short cuts to different sections of the website.
 ### b) The About Me section begins with a brief overview about one's self with a picture for reference.
