@@ -1,5 +1,5 @@
 # WebsiteDevelopment
-To develop a personal website using HTML/CSS and JavaScript.
+## To develop a personal website using HTML/CSS and JavaScript.
 <br>
 
 ## A basic template for a personal website, where images and content can be modified to their needs.
