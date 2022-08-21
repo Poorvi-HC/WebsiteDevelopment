@@ -1,0 +1,187 @@
+body{
+    background-color:black;
+}
+
+.header_1{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    color:#f54712;
+    font-weight: bold;
+    align-content: center;
+}
+.header_2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color:#5CDB95;
+    font-weight: bold;
+    align-content: center;
+}
+
+.header_3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    color:white;
+    font-weight: bold;
+    align-content: center;
+}
+
+.para{
+    position:absolute;
+    background-repeat: no-repeat;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    color:whitesmoke;
+    text-align: center;
+    font-weight: normal;
+    line-break: 6px;
+}
+
+.pg1-2-txt{
+    position:relative;
+    line-height: 110%;
+    width: 600px;
+    margin-left: 90px;
+}
+
+.para_2{
+    text-align: right;
+    color:whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.pg1-2-txt_2{
+    display:inline-block;
+    margin-right:100px;
+}
+
+
+
+.row{
+    display:flex;
+    text-align: center;
+    color:whitesmoke;
+}
+
+.column{
+    flex: 33.33%;
+    padding: 5px;
+}
+
+
+/*form{
+    display:flex;
+    flex-direction:table-column ;
+    width:35px;
+    height:35px;
+}
+
+form input{
+    padding:0.1em 0.1em;
+    margin-left: 20px;
+}
+
+form span{
+    padding:0.1em 0.1em;
+    margin-left:20px;
+}
+
+form > button{
+    width:200px;
+    height:35px;
+    padding:0.1em;
+    margin:20px 20px;
+    cursor:pointer;
+}
+
+ul{
+    list-style:none;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    width:25vw;
+}
+
+ul li{
+    padding:1em 2em .8em 2em
+    border=1px 
+    color=white;
+}
+
+.text{
+    color:whitesmoke;
+    text-align: center;
+}
+#formSubmission
+{
+    display: block;
+}
+#data
+{
+    position: relative;
+    top: 150px;
+}*/
+
+.text{
+    color:whitesmoke;
+    text-align: center;
+    font-size: medium;
+}
+table{
+    margin-top: 50px;
+    text-align: center;
+    background: black;
+    color:whitesmoke;
+}
+
+#show th{
+    padding:13px;
+}
+
+#show td{
+    padding:13px;
+}
+
+#button td input{
+    width:100%;
+}
+
+#button_1{
+    width: 150px;
+    height: 50px;
+}
+#button_2{
+    width: 150px;
+    height: 50px;
+}
+#button_3{
+    width: 150px;
+    height: 50px;
+}
+#button_4{
+    width: 150px;
+    height: 50px;
+}
+#button_5{
+    width: 150px;
+    height: 50px;
+}
+
+
+#button_1f{
+    width: 150px;
+    height: 50px;
+}
+#button_2f{
+    width: 150px;
+    height: 50px;
+}
+#button_3f{
+    width: 150px;
+    height: 50px;
+}
+#button_4f{
+    width: 150px;
+    height: 50px;
+}
